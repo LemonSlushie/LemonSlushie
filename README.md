@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LemonSlushie
-- 👀 I’m interested in learning most of the different languages so I can have fun with making new creations
+- 👀I'm currently a freshman from Hunter College majoring in Computer Science. iI’m interested in learning most of the different languages so I can have fun with making new creations.
+- 
 - 🌱 I’m currently learning HTML/CSS
 - 📫 You can reach me through my email sachorrad03@gmail.com
 
