@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sachorra
+- 👋 Hi, I’m @LemonSlushie
 - 👀I'm currently a freshman from Hunter College majoring in Computer Science. iI’m interested in learning most of the different languages so I can have fun with making new creations.
 - 
 - 🌱 I’m currently learning HTML/CSS
